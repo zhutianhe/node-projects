@@ -1,0 +1,13 @@
+node_modules
+.vscode
+demo
+test
+yarn.lock
+.gitignore
+CHANGELOG.md
+.travis.yml
+jsconfig.json
+rollup.config.js
+.babelrc
+.eslintrc
+.eslintignore
