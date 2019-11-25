@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "../vscode-workspace"
+    },
+    // {
+    //   "path": "../"
+    // },
+    {
+      "path": "../koa2-master"
+    },
+    // {
+    //   "path": "../vue-source-code"
+    // },
+  ],
+  "settings": {}
+}
